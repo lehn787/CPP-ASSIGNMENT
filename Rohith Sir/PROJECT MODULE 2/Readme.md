@@ -96,7 +96,7 @@ The Student Management System is a beginner-level C++ project that demonstrates 
 
 ## Author
 
-**Muhammed**  
+**Muhammed Lahan Kurikkal**  
 Bachelor of Computer Applications (BCA)
 
 **Project Title:** Student Management System
